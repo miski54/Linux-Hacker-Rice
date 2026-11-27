@@ -3,23 +3,24 @@ This repository has my Linux rice from my old laptop which is wrapped in a hacke
 Picutre of my laptop
 > My old laptop
 
-# Apps
+## <a name="apps">Apps</a>
 My rice consists of:
-- fastfetch
-- cmatrix
-- lavat
-- cava
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- [cmatrix](https://github.com/abishekvashok/cmatrix)
+- [lavat](https://github.com/AngelJumbo/lavat)
+- [cava](https://github.com/karlstav/cava)
 
-# Setup
+## Setup
 For setting up the whole rice, follow these steps:
-1. Download the apps listed in the Apps section above
-2. Download the fastfetch and cava folders which are located in the `config files` folder
-3. Navigate to `/.config` on you device
-4. Move the `fastfetch` and `cava` folders to the `.config` folder.
-5. For running cmatrix, type `cmatrix` and write `-c green` if your cmatrix displays a different color than green
-6. For running lavat, type `lavat -c green`
+1. Download the apps listed in the [Apps](#apps) section above
+2. Download the [fastfetch](config-files/fastfetch) and [cava](config-files/cava) folders which are located in the (config-files](Miski54s-Linux-Rice/config-files/fastfetch) folder
+3. Navigate to `~/.config` on you device
+4. Move the [fastfetch](config-files/fastfetch) and [cava](config-files/cava) folders to the `.config` folder.
+5. For running [cmatrix](https://github.com/abishekvashok/cmatrix), type `cmatrix` and write `-C green` if your cmatrix displays a different color than green
+6. For running [lavat](https://github.com/AngelJumbo/lavat), type `lavat -c green`
 
+## Contributing
+This repository is only for others to see my personal rice. I'm not accepting pull requests at this time.
 
-
-# Fun fact
+## Fun fact
 For those who care, I'm running Ubuntu on this old laptop.
