@@ -1,0 +1,48 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+      "type": "file",
+      "source": "~/.config/fastfetch/hacker.txt",
+      "color": {
+        "1": "green",
+      }
+  },
+
+  "display": {
+    "color": {
+      "keys": "green",
+      "title": "green",
+      "output": "white",
+      "separator": "green"
+    }
+  },
+
+
+  "modules": [
+    "break",
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "shell",
+    "de",
+    "wm",
+    "wmtheme",
+    "font",
+    "cpu",
+    {
+        "type": "gpu",
+        "format": "Intel HD Graphics 3000 @ {frequency}"
+    },
+    "memory",
+    "disk",
+    {
+        "type": "battery",
+        "format": "{capacity} [{status}]"
+    },
+    "break",
+    "break",
+    "break"
+  ]
+}
