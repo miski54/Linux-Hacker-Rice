@@ -47,6 +47,3 @@ For setting up the whole rice, follow these steps:
 
 ## Contributing
 This repository is only for others to see my personal rice. I'm not accepting pull requests at this time.
-
-## Fun fact
-For those who care, I'm running Ubuntu on this old laptop.
