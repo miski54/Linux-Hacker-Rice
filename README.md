@@ -1,8 +1,9 @@
-# Miski54's Linux laptop rice
-This repository has my Linux rice from my old laptop which is wrapped in a hacker cmatrix vinyl. 
+# Miski54's Linux hacker rice
+This repository has my Linux rice from my old laptop which is wrapped in a hacker cmatrix vinyl.
+<!--
 Picture of my laptop
 > My old laptop
-
+-->
 ## Details
 | Component | Name |
 | :--- | :--- |
@@ -38,7 +39,7 @@ My rice consists of:
 For setting up the whole rice, follow these steps:
 1. Download the apps listed in the [Apps](#apps) section above
 2. Download the [fastfetch](.config/fastfetch) and [cava](.config/cava) folders which are located in the [.config](Miski54s-Linux-Rice/.config/fastfetch) folder
-3. Navigate to `~/.config` on your device (if you don't see it immediately, it's probably hidden. Use Ctrl + H in your file manager or ls -a in your terminal)
+3. Navigate to `~/.config` on your device (If you don't see it immediately, it's probably hidden. Use Ctrl + H in your file manager or ls -a in your terminal)
 4. Move the [fastfetch](.config/fastfetch) and [cava](.config/cava) folders to the `.config` folder.
 5. For running [cmatrix](https://github.com/abishekvashok/cmatrix), type `cmatrix` and write `-C green` if your cmatrix displays a different color than green
 6. For running [lavat](https://github.com/AngelJumbo/lavat), type `lavat -c green`
