@@ -4,7 +4,10 @@ This repository has my Linux rice from my old laptop which is wrapped in a hacke
 Picture of my laptop
 > My old laptop
 -->
-![Screenshot of my Linux rice](screenshot.png)
+![Screenshot of my Linux rice](README pictures/screenshot.png)
+![My laptop 1](README pictures/laptop1.png)
+![My laptop 2](README pictures/laptop2.png)
+
 ## Details
 | Component | Name |
 | :--- | :--- |
